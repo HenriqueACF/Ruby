@@ -23,3 +23,8 @@ loop do
     end
     count += 1
 end
+
+# TIMES
+10.times do
+    puts 'Hello'
+end
