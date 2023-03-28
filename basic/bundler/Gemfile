@@ -1,0 +1,5 @@
+# rubygems -> local para baixar gems
+source 'https://rubygems.org'
+
+gem 'os'
+
