@@ -100,6 +100,9 @@ loop do
 
     when codigo == 5
       remover_contato
+  else
+    puts "FUNÇÃO NÃO EXISTE"
+    puts "------------------------------"
   end
 end
 
