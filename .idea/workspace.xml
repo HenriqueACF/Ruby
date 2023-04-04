@@ -4,71 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Ruby.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/.ruby-version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/Gemfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/Rakefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/channels/application_cable/channel.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/channels/application_cable/connection.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/controllers/application_controller.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/controllers/concerns/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/jobs/application_job.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/mailers/application_mailer.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/models/application_record.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/models/concerns/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/views/layouts/mailer.html.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/app/views/layouts/mailer.text.erb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/bin/bundle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/bin/rails" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/bin/rake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/bin/setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/bin/spring" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config.ru" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/application.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/boot.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/cable.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/credentials.yml.enc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/database.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/environment.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/environments/development.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/environments/production.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/environments/test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/application_controller_renderer.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/backtrace_silencers.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/cors.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/filter_parameter_logging.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/inflections.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/mime_types.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/initializers/wrap_parameters.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/locales/en.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/puma.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/routes.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/spring.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/config/storage.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/db/seeds.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/lib/tasks/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/log/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/storage/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/channels/application_cable/connection_test.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/controllers/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/fixtures/files/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/integration/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/mailers/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/models/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/test/test_helper.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/tmp/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/tmp/pids/.keep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RubyOnRails/heroes/vendor/.keep" beforeDir="false" />
+    <list default="true" id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="update project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,15 +26,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/h3nriqueassis/Github/Ruby/RubyOnRails/tour_of_heroes_api",
+    "ruby.rails.projectView.checked": "true",
+    "ruby.structure.view.model.defaults.configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -107,7 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1680564064593</updated>
       <workItem from="1680564066293" duration="3514000" />
-      <workItem from="1680584960470" duration="1122000" />
+      <workItem from="1680584960470" duration="1651000" />
+      <workItem from="1680586621562" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1680567436467</created>
@@ -116,11 +55,19 @@
       <option name="project" value="LOCAL" />
       <updated>1680567436467</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update project">
+      <created>1680586137326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680586137326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
 </project>
