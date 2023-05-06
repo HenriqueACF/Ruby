@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="update project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urubu-do-pix/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urubu-do-pix/Gemfile.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +32,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/h3nriqueassis/Github/Ruby/RubyOnRails/tour_of_heroes_api",
+    "last_opened_file_path": "/home/h3nriqueassis/Github/Ruby",
     "ruby.rails.projectView.checked": "true",
     "ruby.structure.view.model.defaults.configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="" />
@@ -47,6 +49,7 @@
       <workItem from="1680564066293" duration="3514000" />
       <workItem from="1680584960470" duration="1651000" />
       <workItem from="1680586621562" duration="32000" />
+      <workItem from="1683403242760" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1680567436467</created>
