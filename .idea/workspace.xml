@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="update project">
-      <change afterPath="$PROJECT_DIR$/urubu-do-pix/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urubu-do-pix/Gemfile.lock" afterDir="false" />
+    <list default="true" id="34d5ec51-6a80-4202-a6fd-2eca500bd422" name="Changes" comment="init project">
+      <change afterPath="$PROJECT_DIR$/urubu-do-pix/app/adapters/repositories/transaction_repository.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/urubu-do-pix/app/adapters/repositories/user_repository.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urubu-do-pix/app/model/transaction.rb" beforeDir="false" afterPath="$PROJECT_DIR$/urubu-do-pix/app/model/transaction.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urubu-do-pix/app/model/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/urubu-do-pix/app/model/user.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Nw91V0YZzU736Aec46swoeB5pX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/h3nriqueassis/Github/Ruby",
+    "last_opened_file_path": "/home/h3nriqueassis/Github/Ruby/urubu-do-pix",
     "ruby.rails.projectView.checked": "true",
     "ruby.structure.view.model.defaults.configured": "true"
   }
@@ -49,7 +62,7 @@
       <workItem from="1680564066293" duration="3514000" />
       <workItem from="1680584960470" duration="1651000" />
       <workItem from="1680586621562" duration="32000" />
-      <workItem from="1683403242760" duration="402000" />
+      <workItem from="1683403242760" duration="1355000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1680567436467</created>
@@ -65,12 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680586137326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="init project">
+      <created>1683403933789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683403933789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="update project" />
-    <option name="LAST_COMMIT_MESSAGE" value="update project" />
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
 </project>
