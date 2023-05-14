@@ -9,12 +9,9 @@ gem 'sqlite3'
 gem 'rake'
 gem 'dotenv'
 gem 'puma'
+gem 'byebug'
 
 group :test do
   gem "rspec"
   gem "rack-test"
 end
-
-# github 'sinatra/sinatra' do
-#   gem 'sinatra-contrib'
-# end
